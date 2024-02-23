@@ -1,0 +1,41 @@
+1. Write a Java program to create a vector to store integer elements
+2. Write a Java program to create a vector to store objects of a class
+3. Write a Java program to create a vector to store different types of objects
+4. Write a Java program to count the items of a Vector collection
+5. Write a Java program to remove all elements of Vector collection
+6. Write a Java program to create a clone of a Vector collection
+7. Write a Java program to insert an item into Vector collection at the specified index
+8. Write a Java program to replace an item into Vector collection at the specified index
+9. Write a Java program to remove a specified item from Vector collection
+10. Write a Java program to remove an item from Vector collection at the specified index
+11. Write a Java program to add elements of a Vector to other Vector collection
+12. Write a Java program to add elements of a vector to other vector collection at the specified position
+13. Write a Java program to compare two Vector collections
+14. Write a Java program to check whether a Vector collection contains a specified item or not
+15. Write a Java program to copy elements of Vector collection into an array
+16. Write a Java program to get element from Vector collection at the specified index
+17. Write a Java program to get the Index of the first occurrence of the specified item in Vector collection
+18. Write a Java program to get the enumeration of the values present in the Vector
+19. Write a Java program to get elements from Vector collection based on an index
+20. Write a Java program to get the Index of the last occurrence of the specified item in Vector collection
+21. Write a Java program to check whether a Vector collection is empty or not
+22. Write a Java program to get the first element of Vector using the firstElement() method
+23. Write a Java program to get the last element of Vector using the lastElement() method
+24. Write a Java program to iterate Vector collection using the iterator() method
+25. Write a Java program to remove all elements of Vector collection contained in the specified collection
+26. Write a Java program to remove all elements of Vector collection using removeAllElements() method
+27. Write a Java program to remove the first occurrence of the specified element from Vector collection
+28. Write a Java program to remove an element from Vector collection based on the specified index
+29. Write a Java program to remove range on elements from Vector collection based on specified indices
+30. Write a Java program to remove elements from Vector collection based on a specified predicate
+31. Write a Java program to replace a specified element at all places with another element in Vector collection
+32. Write a Java program to remove all elements of Vector collection that do not contain in the specified collection
+33. Write a Java program to set an element at the specified index in Vector collection
+34. Write a Java program to change the size of a Vector collection
+35. Write a Java program to sort the elements of a Vector collection
+36. Write a Java program to traverse the Vector collection using spliterator() method
+37. Write a Java program to get the subList from the Vector collection
+38. Write a Java program to convert a Vector collection into an Object array
+39. Write a Java program to Accessing elements in a Vector
+40. Write a Java program to Iterating over a Vector using an enhanced for loop
+
