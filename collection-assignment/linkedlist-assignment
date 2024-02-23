@@ -1,0 +1,66 @@
+
+1. Write a Java Program to Insert the Specified Element at the Specified Position in the LinkedList
+2. Write a Java Program to Insert some Elements at the Specified Position into a LinkedList
+3. Write a Java Program to Insert Elements into the LinkedList at the First and Last position
+4. Write a Java Program to Append the Specified Element to the end of a LinkedList
+5. Write a Java Program to Insert the Specified Element at the Front of a LinkedList
+6. Write a Java Program to Iterate through all Elements in a LinkedList
+7. Write a Java Program to Get the First and Last Occurrence of the Specified Elements in a LinkedList
+8. Write a Java Program to Insert the Specified Element at the end of a LinkedList
+9. Write a Java Program to Iterate a LinkedList in Reverse Order
+10. Write a Java Program to Iterate through all Elements in a LinkedList starting at the specified position
+11. Write a Java Program to Retrieve but does not Remove, the Last Element of a LinkedList
+12. Write a Java Program to Check if a Particular Element exists in a LinkedList
+13. Write a Java Program to Convert a LinkedList to ArrayList
+14. Write a Java Program to Compare Two LinkedList
+15. Write a Java Program to test an LinkedList is Empty or Not
+16. Write a Java Program to Replace an Element in a LinkedList
+17. Write a Java Program to Retrieve but does not Remove, the First Element of a LinkedList
+18. Write a Java Program to Remove and Return the First Element of a LinkedList
+19. Write a Java program to clone an linked list to another linked list
+20. Write a Java program to join two linked lists
+21. Write a Java program to display the elements and their positions in a linked list
+22. Write a Java program to remove a specified element from a linked list
+23. Write a Java program to remove first and last element from a linked list
+24. Write a Java program to remove all the elements from a linked list
+25. Write a Java program of swap two elements in a linked list
+26. Write a Java program to shuffle the elements in a linked list
+27. Write a Java program to find the middle element of a singly linked list in one pass
+28. Write a Function Reverse the nodes of a linked list
+29. Write a function to delete a Linked List
+30. Write a Java program to Merge a linked list into another linked list at alternate positions
+31. Write a Java program to Delete N nodes after M nodes of a linked list
+32. Write a Java program to Rotate a Linked List
+33. Write a Java program to Reverse alternate K nodes in a Singly Linked List
+34. Write a Function to check if a singly linked list is palindrome
+35. Write a Add two numbers represented by linked lists | Set 2
+36. Write a Java program to demonstrate the spliterator() method of LinkedList
+37. Write a Java program to find out whether that element exist in a LinkedList or not. If it exist retrieve the position of that element?
+38. Write a Java program to traverse the elements of a LinkedList in reverse direction
+39. Write a Java program to join an ArrayList at the end of a LinkedList
+40. Write a Java program to which implements LinkedList as a Queue (FIFO)
+41. Write a Java program to Insert an element at the head and tail of a LinkedList
+42. Write a Java program to Add an element or collection of elements at a specific position of a LinkedList
+43. Write a Java program to Remove the elements of a LinkedList from both the ends
+44. Write a Java program to Replace an element at a specific position of a LinkedList with the given element
+45. Write a Java program to Retrieve but not remove the elements of a LinkedList from both the ends
+46. Write a Java program to Retrieve and remove and only retrieve an element from specific position of a LinkedList
+47. Write a Java program to Get the number of elements in a LinkedList
+48. Write a Java program to Remove the first occurrence and last occurrence of a given element in a LinkedList
+49. Write a Java program to use LinkedList as Stack (LIFO)
+50. Write a Java program to Get the position of last occurrence of a given element in a LinkedList
+51. Write a Java program to Create a LinkedList collection of objects of a class
+52. Write a Java program to Create a LinkedList with different types of items
+53. Write a Java program to Remove the last occurrence of a specified item from the LinkedList
+54. Write a Java program to pop items from the stack represented by the LinkedList
+55. Write a Java program to Retrieve and Remove the tail/last item from the LinkedList
+56. Write a Java program to Retrieve and Remove the head item from the LinkedList
+57. Write a Java program to Get the last item from the LinkedList without removing it
+58. Write a Java program to Get the head item from the LinkedList without removing it
+59. Write a Java program to Insert an item at the last of LinkedList using the offerLast() method
+60. Write a Java program to Add an item to the tail of LinkedList
+61. Write a Java program to Get the last item from LinkedList collection using getLast()
+62. Write a Java program to Get the first item from LinkedList collection using getFirst()
+63. Write a Java program to Check whether an item exists in the LinkedList collection or not
+64. Write a Java program to Insert an element at the end of the LinkedList collection
+65. Write a Java program to Add LinkedList collection into another LinkedList collection on the specified index
