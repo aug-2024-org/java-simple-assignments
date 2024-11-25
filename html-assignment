@@ -1,0 +1,19 @@
+1) how to open a page in a new tab, new browser?
+2) change the disc style of <ul> tag to other styles
+3) change the numbers to roman numerals in a <ol> tag
+4) create an about me website, use iframes,<a> tag, tables, ol/ul, html input forms 
+5) Create links to five different pages on five different websites that should
+all open in a new window. 
+6) Create a page with a link at the top of it that when clicked will jump all
+the way to the bottom of the page. At the bottom of the page there
+should be a link to jump back to the top of the page. 
+7) Create a registration form and display the form data in a textarea (using html and javascript)
+8) Display 4 links and when clicked on them open different videos in an iframe
+9) display a table in below format
+
+	SNO	FULL NAME	
+		FIRST NAME	LAST NAME
+	1	John	Smith
+	2	Will	Smith
+	3	Emma	Watson
+10) create a Todo app
